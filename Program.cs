@@ -12,7 +12,7 @@ namespace VersionControlEx
         {
             // this is not supposed to make sense
 
-            Console.WriteLine("Hello, Finlay!");
+            Console.WriteLine("Hello, World!");
             Console.WriteLine("Heads or Tails?");
 
             string headsOrTails = Console.ReadLine();
