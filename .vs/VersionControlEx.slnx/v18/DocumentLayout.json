@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fingo\\OneDrive\\Desktop\\C SHARP ENVIRONMENT\\VersionControlEx\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF18785B-2B79-48EF-B40F-C83B56168E66}|VersionControlEx.csproj|c:\\users\\fingo\\onedrive\\desktop\\c sharp environment\\versioncontrolex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF18785B-2B79-48EF-B40F-C83B56168E66}|VersionControlEx.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fingo\\OneDrive\\Desktop\\C SHARP ENVIRONMENT\\VersionControlEx\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\fingo\\OneDrive\\Desktop\\C SHARP ENVIRONMENT\\VersionControlEx\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T11:06:19.036Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
